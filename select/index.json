@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "踊っチャイナ",
+  "base_artist": "Atena",
+  "createdAt": "2025-12-12T00:39:01.098629Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "踊っチャイナ - Odochina (feat. HATSUNE MIKU & KASANE TETO)",
+      "artist": "Atena",
+      "has_synced": false,
+      "path": "select/01_踊っチャイナ_-_Odochina_(feat._HATSUNE_MIKU_&_KASANE_TETO)_Atena.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Odochina (踊っチャイナ)",
+      "artist": "Atena",
+      "has_synced": true,
+      "path": "select/02_Odochina_(踊っチャイナ)_Atena.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "踊っチャイナ (feat. 初音ミク & 重音テト)",
+      "artist": "Atena",
+      "has_synced": true,
+      "path": "select/03_踊っチャイナ_(feat._初音ミク_&_重音テト)_Atena.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "踊っチャイナ (feat. 初音ミク & 重音テト)",
+      "artist": "Atena",
+      "has_synced": false,
+      "path": "select/pl_01_踊っチャイナ_(feat._初音ミク_&_重音テト)_Atena.txt"
+    }
+  ]
+}
